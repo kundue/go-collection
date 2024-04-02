@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Create an instance of app
-	app := middleware.App{}
+	app := middleware.New()
 
 	// Define some sample handler functions
 	handler1 := func() {

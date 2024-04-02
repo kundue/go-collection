@@ -8,7 +8,7 @@ package main
 import (
 	"fmt"
 
-  "github.com/kundue/go-collection/utils/middleware"
+	"github.com/kundue/go-collection/utils/middleware"
 )
 
 func main() {
